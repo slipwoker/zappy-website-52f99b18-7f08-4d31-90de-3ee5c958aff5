@@ -1,0 +1,57 @@
+# איזיקארד — Generative Engine Optimization Map
+
+> A פיננסים וסליקה business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-52f99b18.zappy5.app
+איזיקארד מספקת שירותי סליקה מתקדמים ללקוחות רפיד וואן עם ממשק עמוק, כלים טכנולוגיים ייחודיים ותמחור אגרסיבי. התחל עכשיו!
+
+### שירותים
+https://-52f99b18.zappy5.app/services
+גלו את מגוון שירותי הסליקה המתקדמים של איזיקארד ללקוחות רפיד וואן - מסופי סליקה, תשלומים מקוונים, ממשק ניהול ועוד. תמחור אגרסיבי!
+
+### אודות
+https://-52f99b18.zappy5.app/about
+איזיקארד היא חברת סליקה עם תמחור נמוך המתמחה בשירותי סליקה לרפיד וואן. גלו את הסיפור שלנו, הערכים והחזון שמניעים אותנו.
+
+### צור קשר
+https://-52f99b18.zappy5.app/contact
+צרו קשר עם איזיכארד לקבלת ייעוץ מקצועי בנושא שירותי סליקה לרפיד וואן. אנחנו כאן לענות על כל שאלה ולעזור לכם להתחיל.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-52f99b18.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-52f99b18.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-52f99b18.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About איזיקארד
+איזיקארד is a business in the פיננסים וסליקה industry.
+
+## Target Audience
+לקוחות המשתמשים במוצר רפיד וואן
+
+## Industry
+פיננסים וסליקה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-52f99b18.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-52f99b18.zappy5.app/robots.txt
